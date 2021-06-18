@@ -9,7 +9,7 @@
 
 ## Description
 
-TrackLife est un bracelet ou autre gadget pour suivre l'état de  santé d'une personne malade ou agée(temperature, rythme cardiaque), indiquer sa position, ainsi qu'appeler l'urgence de facon automatique lors du dépassement de certains seuils, il dispose de ynchronisation bluetooth, wifi à l'application, Track mouvements, rythme cardiaque et respiratoire, niveau d’activité physique, temps de sommeil, dépenses énergétiques, détente relaxationmobile.
+TrackLife est un bracelet ou autre gadget pour suivre l'état de  santé d'une personne malade ou agée(temperature, rythme cardiaque), indiquer sa position, ainsi qu'appeler l'urgence de facon automatique lors du dépassement de certains seuils, il dispose de synchronisation bluetooth, wifi à l'application, Track mouvements, rythme cardiaque et respiratoire, niveau d’activité physique, temps de sommeil, dépenses énergétiques, détente relaxationmobile.
 
 ## Caractéristiques du bracelet
 
