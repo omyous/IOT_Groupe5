@@ -23,13 +23,25 @@ TrackLife est un bracelet ou autre gadget pour suivre l'état de  santé d'une p
 
 ## Liste des composants
 
+-Ecran LCD 16x2
+
+-Potentiomètre
+
 -Accéléromètre et gyroscope
 
 -Capteur pulsation du coeur
 
 -Puce GPS
 
--Capteur de températeur
+-Capteur de températeur TMP36
+
+-Capteur de distance par ultrasons
+
+-Capteur GAZ
+
+-Moteur de vibration
+
+-Résistances
 
 # Circuit tinkerCAD
 
