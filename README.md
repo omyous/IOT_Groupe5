@@ -45,7 +45,7 @@ TrackLife est un bracelet ou autre gadget pour suivre l'état de  santé d'une p
 
 # Circuit tinkerCAD
 
-Lien du circuit: https://www.tinkercad.com/things/diTnTBZNaB4-final
+Lien du circuit: https://www.tinkercad.com/things/diTnTBZNaB4
 
 ![image](https://user-images.githubusercontent.com/51326956/122557251-d4b24480-d03c-11eb-941c-ee6dda9bd637.png)
 
